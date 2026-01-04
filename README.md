@@ -1,4 +1,4 @@
-# APP IS NOT 100% FINISHED, BUT THE REQUIRED TASKS HAVE BEEN FULFILLED.
+# Intelligence Waste Sorter System @ EL4705-04; "Mobile Application with IoT and AI Implementation Purposes."
 
 ## All the main features have been finished, only need some miscellaneous details such as Toast notifications, better Debug Log, better UI handling, and better graph X-axis scrolling.
 
